@@ -9,8 +9,8 @@ I'm a Data Scientist form Germany working for the German-Aerospace-Center (DLR)
 <br>
 <br>
 ## Expertise
-<img align="left" alt="python" src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=python&logoColor=%2361DAFB" />
-<img align="left" alt="flutter" src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=flutter&logoColor=white" />
+<img align="left" alt="python" src="https://img.shields.io/badge/python-python-blue" />
+<img align="left" alt="flutter" src="https://img.shields.io/badge/flutter-flutter-brightgreen" />
 <img align="left" alt="aws" src="https://img.shields.io/badge/Amazon%20AWS-%23232F3E?logo=amazon-aws&logoColor=white&style=for-the-badge" />
 <br>
 <br>
